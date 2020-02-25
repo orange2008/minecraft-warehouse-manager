@@ -1,3 +1,5 @@
+# CAUTION
+DO NOT DELETE SERVER NAMED "reserved", THIS SERVER KEEP THIS THING RUN NORMALLY.
 # Requirement
 Need a computer(nonsense)
 .
