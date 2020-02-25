@@ -1,2 +1,4 @@
 __pycache__
 giropr.bat
+.vscode
+*.pyc
