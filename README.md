@@ -34,10 +34,10 @@ If you want to join us, you can just edit this, but when you commit, please add 
 I am just a student, i don't have any personal assets, please donate me. We accept PayPal, WeChat Pay, Alipay.
 
 Alipay:
-<img src="alipay.jpg" />
+<img src="sponsor/alipay.jpg" />
 
 WeChat:
-<img src="wechat.jpg" />
+<img src="sponsor/wechat.jpg" />
 
 Paypal:
 <a href="https://www.paypal.me/shuairuan" target="_blank"> Go to paypal.me transfer</a>
