@@ -10,16 +10,16 @@ To build a environment, please enter:
 ```shell
 pip install matplotlib pygal requests panda
 ```
-
-# Or you can just execute our install program.
+M# Or you can just execute our install program.
 Windows: inst/Windows_Install.bat
 
 Linux: inst/Linux_Install.sh
 
 # To start program.
-Windows: Windows.bat
+Windows: Launch Windows.bat
 
-Linux: Linux.sh
+Linux: Enter in terminal: ./linux
+        Or: bash linux
 
 # Promos
 
