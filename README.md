@@ -16,7 +16,7 @@ Windows: inst/Windows_Install.bat
 Linux: inst/Linux_Install.sh
 
 # To start program.
-Windows: Launch Windows.bat
+Windows: Launch Windows.exe
 
 Linux: Enter in terminal: ./linux
         Or: bash linux
