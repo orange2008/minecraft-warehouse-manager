@@ -47,6 +47,8 @@ def takeout(servername):
                 print("This item never stored.")
                 localdict[itemname] = 0
                 pass
+        if item < 0:
+            print("The number of items is insufficient. You have " + str(item) + " " + str(itemname) + " now.")
         localdict[itemname] = item
         json.dump(localdict, storing)
     print("Ok.")
