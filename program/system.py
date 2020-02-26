@@ -61,4 +61,3 @@ except KeyboardInterrupt:
         crashlog.write("Severity: Nothing serious.\n")
         crashlog.write("Need data recovery: False\n")
     print("Quitting...")
-    exit()
