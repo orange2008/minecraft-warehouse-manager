@@ -6,6 +6,7 @@ try:
     import newserver as ns
     import remserver as rs
     import os
+    from main import mainapp
     print("Minecraft Storage Management.")
     print("License: Ultimate/Forever")
     print("Server you want to join, or type 'ds' to delete some server: ")
@@ -15,7 +16,7 @@ try:
     print("Resolving...")
     if servername in dicts:
         print("Connecting...")
-        os.system("main.py")
+        mainapp(servername)
     elif servername == "ds":
         print("Server you want to delete: ")
         delserver = input(">> ")
