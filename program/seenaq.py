@@ -5,4 +5,4 @@ def seenaq(servername):
     with open(server) as seeall:
         everything = json.load(seeall)
     for name, quantity in everything.items():
-        print("You have " + quantity + " " + name)
+        print("You have " + str(quantity) + " " + str(name))
