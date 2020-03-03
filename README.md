@@ -8,7 +8,7 @@ Need Python3.8 or higher.
 To build a environment, please enter:
 
 ```shell
-pip install matplotlib pygal requests panda
+pip install matplotlib pygal requests pandas
 ```
 M# Or you can just execute our install program.
 Windows: inst/Windows_Install.bat
