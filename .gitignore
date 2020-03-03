@@ -3,3 +3,4 @@ giropr.bat
 .vscode
 *.pyc
 program/crash.log
+program/__pycache__
