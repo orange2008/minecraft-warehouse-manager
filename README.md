@@ -18,8 +18,9 @@ Linux: inst/Linux_Install.sh
 # To start program.
 Windows: Launch Windows.exe
 
-Linux: Enter in terminal: ./linux
-        Or: bash linux
+Linux: Enter in terminal:
+		cd program
+		python3 system.py
 
 # Promos
 
