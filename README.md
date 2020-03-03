@@ -19,7 +19,7 @@ Linux: inst/Linux_Install.sh
 Windows: Launch Windows.exe
 
 Linux: Enter in terminal:
-		cd program
+		cd program &&
 		python3 system.py
 
 # Promos
