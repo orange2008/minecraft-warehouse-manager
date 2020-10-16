@@ -4,3 +4,4 @@ giropr.bat
 *.pyc
 program/crash.log
 program/__pycache__
+program
