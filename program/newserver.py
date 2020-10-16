@@ -4,6 +4,7 @@ def create(servername):
     print("Checkout: ")
     print("Server name: " + servername)
     print("Creating server...")
+    print(os.getcwd())
     os.system('cd storage && mkdir ' + servername + ' && cd ' + servername + ' echo "{}" >> item.json')
     print("Reading server list...")
     with open("storage/map.json", "r") as cserver:
