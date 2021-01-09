@@ -1,8 +1,5 @@
 def mainapp(servername):
     import json
-    import pygal
-    import matplotlib
-    import requests
     import datetime
     import os
     import time
